@@ -1,0 +1,17 @@
+Write a java program for getting different colors through ArrayList interface and sort them
+using Collections.sort( ArrayListObj)?
+  code:
+  package list1;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+public class e3 {
+public static void main(String []args) {
+	ArrayList<String> array3 = new ArrayList<>();
+	//adding elements
+	array3.addAll(Arrays.asList("Red","Orange","green","violet","white"));
+	//sorting
+	Collections.sort(array3);
+	System.out.println("After sorting"+array3);
+}
+}
