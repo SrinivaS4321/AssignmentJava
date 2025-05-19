@@ -1,4 +1,4 @@
-1aoutputlink:https://github.com/SrinivaS4321/AssignmentJava/blob/main/1a/arraylist.png
+arraylistoutput:https://github.com/SrinivaS4321/AssignmentJava/blob/main/1a/arrayList.png
 1b1outputlink:https://github.com/SrinivaS4321/AssignmentJava/blob/main/1b/1b1output.png
 1b2outputlink:https://github.com/SrinivaS4321/AssignmentJava/blob/main/1b/1b2output.png
 1b3outputlink:https://github.com/SrinivaS4321/AssignmentJava/blob/main/1b/1b3output.png
